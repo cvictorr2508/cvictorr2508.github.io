@@ -1,5 +1,10 @@
 ---
-title: "mywebsite"
+title: "Victor Rafael R. Celestino"
+image: Eu_na_FACE.jpg
+about:
+    template: trestles
+    image-shape: rectangle
+
 ---
 
 This is a Quarto website.
